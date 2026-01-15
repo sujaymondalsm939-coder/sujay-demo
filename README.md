@@ -1,2 +1,4 @@
 # sujay-demo
-author-sujay mondal
+author-Sujay Mondal
+<br>
+this my first repo
